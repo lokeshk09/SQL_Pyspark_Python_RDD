@@ -25,5 +25,15 @@ Fallow below Sign Up link [Databricks Community Edition Sign Up](https://docs.da
 and login using
 [Databricks Community Edition](https://community.cloud.databricks.com/login.html)
 
-Input Data used :- [Chinook Database](https://www.kaggle.com/code/alaasedeeq/chinook-sql/notebook) (kaggle Database available in .db format) or you can directly use the CSV files uploaded in the repo `Chinook_DB_Analysis/InputData`
+Input Data used :- [Chinook Database](https://www.kaggle.com/code/alaasedeeq/chinook-sql/notebook) (kaggle Database available in .db format) or you can directly use the CSV files uploaded in the [InputData](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/tree/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/InputData)
 
+Created below Notebooks
+
+- [Chinook_Load_data_Load.ipynb](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.ipynb) --> Required to Load the Data for the project.
+- [Chinook_Data_Analysis.ipynb](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Data_Analysis.ipynb) --> contains the Code (SQL, Pyspark, Python, RDD)
+
+You can refer the [SampleQueries](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Practice_Queries.sql) file which contains the sample SQL queries on the Chinook data that i have used.
+
+I have used only few queries that includes most of the required usage of the statements.
+
+Also, refer the DBC files [Chinook_Data_Analysis.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Data_Analysis.dbc) and [Chinook_Load_data_Load.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.dbc) for quick import and reference
