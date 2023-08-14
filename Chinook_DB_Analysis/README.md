@@ -29,11 +29,11 @@ Input Data used :- [Chinook Database](https://www.kaggle.com/code/alaasedeeq/chi
 
 Created below Notebooks
 
-- [Chinook_Load_data_Load.ipynb](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.ipynb) --> Required to Load the Data for the project.
+- [Chinook_Load_data_Load.ipynb](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/31ec3a07f7c773db74026d91c62cd2ac5cfc9c29/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.ipynb) --> Required to Load the Data for the project.
 - [Chinook_Data_Analysis.ipynb](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Data_Analysis.ipynb) --> contains the Code (SQL, Pyspark, Python, RDD)
 
 You can refer the [SampleQueries](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Practice_Queries.sql) file which contains the sample SQL queries on the Chinook data that i have used.
 
 I have used only few queries that includes most of the required usage of the statements.
 
-Also, refer the DBC files [Chinook_Data_Analysis.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Data_Analysis.dbc) and [Chinook_Load_data_Load.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.dbc) for quick import and reference
+Also, refer the DBC files [Chinook_Data_Analysis.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/Notebooks/Chinook_Data_Analysis.dbc) and [Chinook_Load_data_Load.dbc](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/blob/31ec3a07f7c773db74026d91c62cd2ac5cfc9c29/Chinook_DB_Analysis/Notebooks/Chinook_Load_data_Load.dbc) for quick import and reference
