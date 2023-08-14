@@ -25,7 +25,7 @@ Fallow below Sign Up link [Databricks Community Edition Sign Up](https://docs.da
 and login using
 [Databricks Community Edition](https://community.cloud.databricks.com/login.html)
 
-Input Data used :- [Chinook Database](https://www.kaggle.com/code/alaasedeeq/chinook-sql/notebook) (kaggle Database available in .db format) or you can directly use the CSV files uploaded in the [InputData](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/tree/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/InputData)
+Input Data used :- [Chinook Database](https://www.kaggle.com/code/alaasedeeq/chinook-sql/notebook) (kaggle Database available in .db format) or you can directly use the CSV files uploaded in the [InputData](https://github.com/lokeshk09/SQL_Pyspark_Python_RDD/tree/c153dd0840e8721b31f3a8b8d28b2367670fdecc/Chinook_DB_Analysis/InputData) Folder
 
 Created below Notebooks
 
