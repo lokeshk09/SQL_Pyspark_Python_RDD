@@ -189,7 +189,7 @@ CREATE TABLE trades (
     price FLOAT,
     quantity INT,
     status NVARCHAR(255),
-    timestamp1 NVARCHAR(1000)
+    timestamp NVARCHAR(1000)
 );
 
 -- Insert statements for the data
@@ -381,17 +381,17 @@ INSERT INTO pharmacy_sales_p3 VALUES
     (136, 144814, 1084258.00, 1006447.73, 'Biogen', 'Burkhart');
 
 -- Drop the table if it exists
-DROP TABLE IF EXISTS events1;
+DROP TABLE IF EXISTS events;
 
 -- Create the table
-CREATE TABLE events1 (
+CREATE TABLE events (
     app_id INT,
     event_type NVARCHAR(255),
-    timestamp1 NVARCHAR(1000)
+    timestamp NVARCHAR(1000)
 );
 
 -- Insert statements for the data
-INSERT INTO events1 VALUES
+INSERT INTO events VALUES
 (123, 'impression', '2022/07/18 00:00:00'),
 (123, 'impression', '2022/07/18 00:00:00'),
 (123, 'click', '2022/07/18 00:00:00'),
